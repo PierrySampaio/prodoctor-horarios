@@ -1,3752 +1,4202 @@
 [
   {
-    "data": "2025-08-11",
-    "hora": "08:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "08:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "08:00",
     "usuario": 18,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
+    "hora": "08:00",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "08:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "08:01",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
   },
   {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "08:15",
-    "usuario": 17,
-    "local": 1
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.003",
+    "tipo_consulta": "MAPA 24 HORAS"
   },
   {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "08:20",
     "usuario": 2,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-11",
-    "hora": "08:30",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "08:40",
     "usuario": 2,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-11",
-    "hora": "08:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "09:00",
     "usuario": 2,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "09:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-11",
-    "hora": "09:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "09:01",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-11",
-    "hora": "09:15",
-    "usuario": 17,
-    "local": 1
+    "data": "2025-09-01",
+    "hora": "09:02",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "09:20",
     "usuario": 2,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-11",
-    "hora": "09:30",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "09:40",
     "usuario": 2,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-11",
-    "hora": "09:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "10:00",
-    "usuario": 2,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-11",
-    "hora": "10:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "10:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
+    "hora": "10:00",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "10:01",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "10:02",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-11",
-    "hora": "10:15",
-    "usuario": 17,
-    "local": 1
+    "data": "2025-09-01",
+    "hora": "10:20",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-11",
-    "hora": "10:30",
-    "usuario": 17,
-    "local": 1
+    "data": "2025-09-01",
+    "hora": "10:20",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-11",
-    "hora": "10:45",
-    "usuario": 17,
-    "local": 1
+    "data": "2025-09-01",
+    "hora": "10:40",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
   },
   {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
+    "hora": "10:40",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "11:00",
     "usuario": 2,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-11",
+    "data": "2025-09-01",
     "hora": "11:00",
-    "usuario": 17,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-11",
-    "hora": "11:15",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "11:30",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "11:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "12:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "12:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "13:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "13:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "13:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "13:15",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "13:30",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "13:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "14:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "14:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "14:15",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "14:30",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "14:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "15:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "15:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "15:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "15:16",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "15:30",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "15:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "16:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "16:15",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "16:30",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "16:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-11",
-    "hora": "17:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-12",
-    "hora": "08:40",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-12",
-    "hora": "09:20",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-12",
-    "hora": "10:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-12",
-    "hora": "11:20",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-12",
-    "hora": "14:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "08:00",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "08:15",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "08:20",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "08:20",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "08:30",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "08:40",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "08:45",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "09:00",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "09:00",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "09:10",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "09:15",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "09:20",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "09:20",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "09:30",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "09:40",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "09:45",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "10:00",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "10:00",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "10:10",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "10:15",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "10:20",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "10:30",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "10:40",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "10:45",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "11:00",
-    "usuario": 29,
-    "local": 1
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
   },
   {
-    "data": "2025-08-13",
-    "hora": "11:00",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "11:10",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "11:10",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "11:15",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "11:20",
-    "usuario": 23,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-13",
-    "hora": "11:20",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "11:30",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "11:35",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "11:40",
-    "usuario": 23,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-13",
-    "hora": "11:45",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "11:50",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "12:00",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "12:01",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "12:02",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "12:03",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "12:04",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "12:05",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "13:00",
-    "usuario": 22,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "13:00",
-    "usuario": 23,
-    "local": 1
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-13",
-    "hora": "13:15",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "13:15",
-    "usuario": 22,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "13:20",
-    "usuario": 23,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.0024",
+    "tipo_consulta": "INFILTRAÇÃO DE OMBRO"
   },
   {
-    "data": "2025-08-13",
-    "hora": "13:30",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "13:40",
-    "usuario": 23,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
+    "hora": "13:45",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "14:00",
-    "usuario": 30,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "IAHI8",
+    "tipo_consulta": "INFILTRAÇÃO COM ACIDO HUALU IMPOR 1850"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "14:00",
-    "usuario": 22,
-    "local": 1
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-13",
-    "hora": "14:00",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "14:00",
     "usuario": 7,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.0040",
+    "tipo_consulta": "USG DE MAMAS"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
+    "hora": "14:10",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "14:15",
-    "usuario": 22,
-    "local": 1
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.001001",
+    "tipo_consulta": "USG MORFOLOGICO 2º TRIMESTRE"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "14:20",
-    "usuario": 23,
-    "local": 1
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-13",
-    "hora": "14:30",
-    "usuario": 22,
-    "local": 1
+    "data": "2025-09-01",
+    "hora": "14:20",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
+    "hora": "14:20",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "14:40",
-    "usuario": 23,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
-    "data": "2025-08-13",
-    "hora": "14:45",
-    "usuario": 22,
-    "local": 1
+    "data": "2025-09-01",
+    "hora": "14:40",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
+    "hora": "14:40",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "15:00",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "15:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "15:00",
-    "usuario": 22,
-    "local": 1
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "15:00",
-    "usuario": 23,
-    "local": 1
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0058",
+    "tipo_consulta": "USG OBSTETRICO INICIAL ENDOVAGINAL"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "15:01",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-13",
-    "hora": "15:10",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "15:15",
-    "usuario": 22,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
-    "hora": "15:15",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
     "hora": "15:20",
-    "usuario": 23,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
+    "hora": "15:20",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "15:20",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "15:40",
-    "usuario": 23,
-    "local": 1
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
+    "hora": "15:40",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "15:40",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "15:50",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "16:00",
-    "usuario": 23,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "62",
+    "tipo_consulta": "INFILTRAÇÃO COM ÁCIDO HIALURÔNICO"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
+    "hora": "16:00",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0044",
+    "tipo_consulta": "USG DE RINS E VIAS URINARIAS"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "16:00",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "16:15",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "16:20",
-    "usuario": 23,
-    "local": 1
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
+    "hora": "16:20",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "62",
+    "tipo_consulta": "INFILTRAÇÃO COM ÁCIDO HIALURÔNICO"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "16:20",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "16:40",
-    "usuario": 23,
-    "local": 1
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
+    "hora": "16:40",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "16:40",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "17:00",
-    "usuario": 23,
-    "local": 1
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.001001",
+    "tipo_consulta": "USG MORFOLOGICO 2º TRIMESTRE"
   },
   {
-    "data": "2025-08-13",
-    "hora": "17:10",
-    "usuario": 23,
-    "local": 1
+    "data": "2025-09-01",
+    "hora": "17:00",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-13",
+    "data": "2025-09-01",
+    "hora": "17:00",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "BQGU",
+    "tipo_consulta": "BLOQUEIO QUIMICO GUIADO POR ULTRASSOM"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "17:00",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-01",
     "hora": "17:20",
-    "usuario": 23,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "IAHI8",
+    "tipo_consulta": "INFILTRAÇÃO COM ACIDO HUALU IMPOR 1850"
   },
   {
-    "data": "2025-08-13",
-    "hora": "17:30",
-    "usuario": 23,
-    "local": 1
+    "data": "2025-09-01",
+    "hora": "17:40",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-14",
+    "data": "2025-09-01",
+    "hora": "18:00",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "1001",
+    "tipo_consulta": "COLONOSCOPIA - ENDOLIVE"
+  },
+  {
+    "data": "2025-09-01",
+    "hora": "18:04",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "08:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "08:00",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.003",
+    "tipo_consulta": "MAPA 24 HORAS"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "08:40",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "09:20",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "10:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "10:40",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "11:20",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "13:20",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "14:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "15:20",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-02",
+    "hora": "16:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "08:30",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "08:45",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "09:00",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "09:00",
+    "usuario": 30,
+    "local": 1,
+    "codigo_procedimento": "2.0083",
+    "tipo_consulta": "CONSULTA PSICOLOGO"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "09:15",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "09:30",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "09:45",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "10:00",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "10:15",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "10:30",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "10:45",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "11:00",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "11:15",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.005",
+    "tipo_consulta": "PAPANICOLAU"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "11:30",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "11:45",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.005",
+    "tipo_consulta": "PAPANICOLAU"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "13:00",
+    "usuario": 30,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "13:00",
+    "usuario": 22,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "13:15",
+    "usuario": 22,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "13:30",
+    "usuario": 22,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "13:45",
+    "usuario": 22,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "14:00",
+    "usuario": 22,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "14:15",
+    "usuario": 22,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "14:30",
+    "usuario": 22,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "15:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "16:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "16:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-03",
+    "hora": "16:02",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "08:00",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.004",
+    "tipo_consulta": "ECG - ELETROCARDIOGRAMA DE REPOUSO"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "08:05",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": "VIT25",
+    "tipo_consulta": "VITAMINA D - 25 HIDROXI"
+  },
+  {
+    "data": "2025-09-04",
     "hora": "08:10",
     "usuario": 21,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
     "hora": "08:20",
     "usuario": 21,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "HEMO",
+    "tipo_consulta": "HEMOGRAMA COMPLETO"
   },
   {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
     "hora": "08:30",
     "usuario": 21,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
+    "hora": "08:40",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
+  },
+  {
+    "data": "2025-09-04",
     "hora": "08:40",
     "usuario": 21,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "HEMO",
+    "tipo_consulta": "HEMOGRAMA COMPLETO"
   },
   {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
     "hora": "08:50",
     "usuario": 21,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-14",
-    "hora": "09:00",
-    "usuario": 21,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "09:10",
-    "usuario": 21,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "09:20",
-    "usuario": 21,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "09:30",
-    "usuario": 21,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "09:40",
-    "usuario": 21,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "09:50",
-    "usuario": 21,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
     "hora": "10:00",
     "usuario": 21,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "E2?",
+    "tipo_consulta": "ESTRADIOL, 17 BETA NO SORO"
   },
   {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
     "hora": "10:10",
     "usuario": 21,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "HEMO",
+    "tipo_consulta": "HEMOGRAMA COMPLETO"
   },
   {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
     "hora": "10:20",
     "usuario": 21,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "PSALT",
+    "tipo_consulta": "PSA TOTAL E LIVRE"
   },
   {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
+    "hora": "10:30",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": "HEMO",
+    "tipo_consulta": "HEMOGRAMA COMPLETO"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "10:35",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-04",
     "hora": "10:40",
     "usuario": 21,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "URINA",
+    "tipo_consulta": "PARCIAL DE URINA - ROTINA URINA TIPO I"
   },
   {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
     "hora": "10:50",
     "usuario": 21,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "HEMO",
+    "tipo_consulta": "HEMOGRAMA COMPLETO"
   },
   {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
     "hora": "11:00",
     "usuario": 21,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
     "hora": "13:00",
-    "usuario": 15,
-    "local": 1
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-14",
-    "hora": "13:15",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "13:20",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
     "hora": "13:30",
-    "usuario": 15,
-    "local": 1
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-14",
-    "hora": "13:45",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "13:45",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
     "hora": "14:00",
     "usuario": 18,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-14",
-    "hora": "14:00",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "14:00",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "14:10",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "14:15",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "14:15",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
+    "data": "2025-09-04",
     "hora": "14:15",
     "usuario": 18,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
-    "data": "2025-08-14",
-    "hora": "14:30",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "14:30",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "14:30",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "14:45",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "14:45",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "14:45",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "14:50",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "15:00",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "15:00",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "15:00",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "15:15",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "15:15",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "15:15",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "15:20",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "15:30",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "15:30",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "15:45",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "15:45",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "16:00",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "16:00",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "16:15",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "16:15",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "16:20",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "16:30",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "16:30",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "16:30",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "16:45",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "16:45",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "16:45",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "17:00",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "17:00",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "17:00",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "17:15",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "17:15",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "17:30",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "17:31",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "17:32",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "17:33",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "17:34",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "17:35",
-    "usuario": 11,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "18:00",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-14",
-    "hora": "18:01",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "08:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "09:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "10:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "10:02",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "12:00",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "12:15",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "12:30",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "12:35",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "12:45",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "13:00",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "13:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "13:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "13:15",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "13:30",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "13:30",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "13:45",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "14:00",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "14:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "14:00",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "14:15",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "14:30",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "14:35",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "14:45",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "15:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "15:00",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "15:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "15:15",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "15:30",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "15:45",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "16:00",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "16:15",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "16:20",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "16:30",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "16:45",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "18:00",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-15",
-    "hora": "18:01",
-    "usuario": 12,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "08:00",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "08:00",
-    "usuario": 1,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "08:00",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "08:15",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "08:20",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "08:20",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "08:30",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "08:40",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "08:45",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "09:00",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "09:00",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "09:15",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "09:20",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "09:20",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "09:30",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "09:40",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "09:45",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "10:00",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "10:00",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "10:15",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "10:20",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "10:20",
-    "usuario": 1,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "10:30",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "10:40",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "10:40",
-    "usuario": 1,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "10:45",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "11:00",
-    "usuario": 1,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "11:00",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "11:00",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "11:10",
-    "usuario": 1,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "11:15",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "11:20",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "11:20",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "11:30",
-    "usuario": 1,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "11:30",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "11:31",
-    "usuario": 1,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "11:45",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "12:00",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "12:01",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "12:01",
-    "usuario": 31,
-    "local": 1
-  },
-  {
-    "data": "2025-08-16",
-    "hora": "12:02",
-    "usuario": 19,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "08:00",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "08:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "08:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "08:15",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "08:30",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "08:45",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "09:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "09:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "10:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "10:00",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "10:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "10:02",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "10:15",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "10:20",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "10:40",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "11:00",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "11:10",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "11:20",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "11:40",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "13:00",
-    "usuario": 9,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "13:00",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "13:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "13:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "13:15",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "13:20",
-    "usuario": 9,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "13:20",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "13:40",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "13:40",
-    "usuario": 9,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "14:00",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "14:00",
-    "usuario": 2,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "14:00",
-    "usuario": 9,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "14:00",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "14:10",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
+    "data": "2025-09-04",
     "hora": "14:20",
-    "usuario": 26,
-    "local": 1
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-18",
-    "hora": "14:20",
-    "usuario": 2,
-    "local": 1
+    "data": "2025-09-04",
+    "hora": "14:30",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-18",
-    "hora": "14:20",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "14:20",
-    "usuario": 9,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
+    "data": "2025-09-04",
     "hora": "14:40",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "14:40",
-    "usuario": 9,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "14:40",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "15:00",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "15:00",
-    "usuario": 9,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "15:00",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "15:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-18",
-    "hora": "15:01",
+    "data": "2025-09-04",
+    "hora": "14:45",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "15:00",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "15:15",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-04",
+    "hora": "15:20",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-18",
-    "hora": "15:20",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "15:20",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "15:20",
-    "usuario": 9,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
+    "data": "2025-09-04",
     "hora": "15:30",
-    "usuario": 26,
-    "local": 1
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-18",
-    "hora": "15:40",
-    "usuario": 26,
-    "local": 1
+    "data": "2025-09-04",
+    "hora": "15:45",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
-    "data": "2025-08-18",
-    "hora": "15:40",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "15:40",
-    "usuario": 9,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
+    "data": "2025-09-04",
     "hora": "16:00",
-    "usuario": 9,
-    "local": 1
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
-    "data": "2025-08-18",
-    "hora": "16:00",
-    "usuario": 7,
-    "local": 1
+    "data": "2025-09-04",
+    "hora": "16:15",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-18",
-    "hora": "16:00",
-    "usuario": 26,
-    "local": 1
+    "data": "2025-09-04",
+    "hora": "16:30",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
-    "data": "2025-08-18",
-    "hora": "16:20",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "16:20",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "16:40",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "16:40",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
+    "data": "2025-09-04",
     "hora": "16:45",
-    "usuario": 31,
-    "local": 1
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
-    "data": "2025-08-18",
+    "data": "2025-09-04",
+    "hora": "16:50",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-04",
     "hora": "17:00",
-    "usuario": 7,
-    "local": 1
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
-    "data": "2025-08-18",
-    "hora": "17:00",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
+    "data": "2025-09-04",
     "hora": "17:01",
-    "usuario": 2,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "17:20",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "18:00",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "18:00",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "18:00",
-    "usuario": 9,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "18:01",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "18:01",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "18:02",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "18:02",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "18:02",
-    "usuario": 9,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "18:03",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-18",
-    "hora": "18:04",
-    "usuario": 26,
-    "local": 1
-  },
-  {
-    "data": "2025-08-19",
-    "hora": "08:00",
     "usuario": 18,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-19",
-    "hora": "09:20",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "08:00",
-    "usuario": 30,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "08:30",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "08:45",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "09:00",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "09:10",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "09:15",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "09:30",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "10:00",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "10:15",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "10:30",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "10:45",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "11:00",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "11:15",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "11:30",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "11:45",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "12:00",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "13:00",
-    "usuario": 22,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "13:15",
-    "usuario": 22,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "14:00",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-20",
-    "hora": "15:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-21",
-    "hora": "08:10",
-    "usuario": 21,
-    "local": 1
-  },
-  {
-    "data": "2025-08-21",
-    "hora": "08:20",
-    "usuario": 21,
-    "local": 1
-  },
-  {
-    "data": "2025-08-21",
-    "hora": "08:30",
-    "usuario": 21,
-    "local": 1
-  },
-  {
-    "data": "2025-08-21",
-    "hora": "11:00",
-    "usuario": 21,
-    "local": 1
-  },
-  {
-    "data": "2025-08-21",
-    "hora": "14:00",
+    "data": "2025-09-04",
+    "hora": "17:02",
     "usuario": 18,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-21",
-    "hora": "14:15",
+    "data": "2025-09-04",
+    "hora": "17:03",
     "usuario": 18,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-21",
-    "hora": "14:30",
+    "data": "2025-09-04",
+    "hora": "17:04",
     "usuario": 18,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-21",
-    "hora": "14:45",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-21",
-    "hora": "15:00",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
+    "data": "2025-09-05",
     "hora": "08:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
   },
   {
-    "data": "2025-08-22",
+    "data": "2025-09-05",
     "hora": "08:00",
     "usuario": 4,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-22",
-    "hora": "08:15",
-    "usuario": 4,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "08:30",
-    "usuario": 4,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "08:45",
-    "usuario": 4,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "09:00",
-    "usuario": 4,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "09:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "09:15",
-    "usuario": 4,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "09:20",
-    "usuario": 4,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "09:30",
-    "usuario": 4,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "09:45",
-    "usuario": 4,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "10:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "10:02",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "11:00",
-    "usuario": 4,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "13:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "13:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "13:30",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "14:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "15:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-22",
-    "hora": "15:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "08:00",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "08:15",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "08:20",
-    "usuario": 1,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "08:30",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "08:30",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "08:45",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "08:45",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "08:50",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "09:00",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "09:00",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "09:15",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "09:15",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "09:30",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "09:30",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "09:45",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "09:45",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "10:00",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "10:00",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "10:15",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "10:15",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "10:30",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "10:30",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "10:40",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "10:40",
-    "usuario": 1,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "10:45",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "11:00",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "11:00",
-    "usuario": 1,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "11:10",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "11:10",
-    "usuario": 1,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "11:15",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "11:20",
-    "usuario": 1,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "11:20",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "11:30",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "11:30",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "11:40",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "11:45",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "12:00",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-23",
-    "hora": "12:00",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-25",
-    "hora": "08:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-25",
+    "data": "2025-09-05",
     "hora": "08:01",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
   },
   {
-    "data": "2025-08-25",
+    "data": "2025-09-05",
+    "hora": "08:10",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "08:15",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "08:30",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "08:45",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "09:00",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "2.0070",
+    "tipo_consulta": "EXERESE TANGENCIAL (SHAVING) - POR GRUPO DE ATÉ 5 LESÕES"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "09:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-05",
     "hora": "09:01",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-25",
+    "data": "2025-09-05",
+    "hora": "09:10",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "09:15",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "09:30",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "09:45",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-05",
+    "hora": "10:00",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-05",
     "hora": "10:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-25",
+    "data": "2025-09-05",
     "hora": "10:01",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-25",
-    "hora": "10:02",
+    "data": "2025-09-05",
+    "hora": "10:03",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-25",
-    "hora": "14:00",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-25",
-    "hora": "14:20",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-25",
-    "hora": "14:40",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-25",
-    "hora": "15:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-25",
-    "hora": "15:00",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-25",
-    "hora": "15:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-25",
-    "hora": "15:20",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-25",
-    "hora": "17:20",
-    "usuario": 7,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "08:30",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "08:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "09:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "09:15",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "09:30",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "09:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "11:15",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "11:30",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "13:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "13:15",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "13:30",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "13:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "14:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "14:15",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "14:30",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "14:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "15:00",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "15:15",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-26",
-    "hora": "16:45",
-    "usuario": 17,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "08:00",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "08:30",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "08:30",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "08:45",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "08:45",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "09:00",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "09:00",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "09:00",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "09:15",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "09:15",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "09:20",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "09:30",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "09:30",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "09:45",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "09:45",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "10:00",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "10:00",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
+    "data": "2025-09-05",
     "hora": "10:15",
-    "usuario": 15,
-    "local": 1
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-27",
-    "hora": "10:15",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
+    "data": "2025-09-05",
     "hora": "10:30",
-    "usuario": 29,
-    "local": 1
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-27",
-    "hora": "10:30",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
+    "data": "2025-09-05",
     "hora": "10:45",
-    "usuario": 29,
-    "local": 1
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-27",
-    "hora": "10:45",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
+    "data": "2025-09-05",
     "hora": "11:00",
-    "usuario": 30,
-    "local": 1
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-27",
-    "hora": "11:00",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
+    "data": "2025-09-05",
     "hora": "11:15",
-    "usuario": 29,
-    "local": 1
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-27",
-    "hora": "11:15",
-    "usuario": 15,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
+    "data": "2025-09-05",
     "hora": "11:30",
-    "usuario": 15,
-    "local": 1
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-27",
-    "hora": "11:40",
-    "usuario": 23,
-    "local": 1
+    "data": "2025-09-05",
+    "hora": "11:45",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "1.012",
+    "tipo_consulta": "EXERESE E SUTURA P (TUMOR DE PELE E MUCOSAS/PINTA/NEVO/CISTO/LIPOMA) PEQUENO"
   },
   {
-    "data": "2025-08-27",
-    "hora": "13:00",
-    "usuario": 23,
-    "local": 1
+    "data": "2025-09-05",
+    "hora": "12:00",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "1.013",
+    "tipo_consulta": "EXERESE E SUTURA M (TUMOR DE PELE E MUCOSAS/PINTA/NEVO/CISTO/LIPOMA) MEDIO"
   },
   {
-    "data": "2025-08-27",
-    "hora": "13:00",
-    "usuario": 22,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "13:00",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "13:20",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "13:40",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "14:00",
-    "usuario": 30,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "14:20",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "15:00",
-    "usuario": 30,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "15:00",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "15:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "16:00",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "16:40",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-27",
-    "hora": "17:00",
-    "usuario": 23,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "08:10",
-    "usuario": 21,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "13:30",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "13:40",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "13:50",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "14:00",
-    "usuario": 18,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "14:00",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "14:10",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "14:20",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "14:30",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "14:40",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "14:50",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "15:00",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "15:10",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "15:20",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "15:30",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "15:40",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-28",
-    "hora": "15:50",
-    "usuario": 6,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
-    "hora": "08:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
-    "hora": "09:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
-    "hora": "10:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
-    "hora": "10:02",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
-    "hora": "13:00",
-    "usuario": 5,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
+    "data": "2025-09-05",
     "hora": "13:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
   },
   {
-    "data": "2025-08-29",
+    "data": "2025-09-05",
     "hora": "13:01",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
   },
   {
-    "data": "2025-08-29",
-    "hora": "13:05",
-    "usuario": 5,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
-    "hora": "13:20",
-    "usuario": 5,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
-    "hora": "13:40",
-    "usuario": 5,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
+    "data": "2025-09-05",
     "hora": "14:00",
-    "usuario": 5,
-    "local": 1
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-29",
-    "hora": "14:15",
-    "usuario": 5,
-    "local": 1
+    "data": "2025-09-05",
+    "hora": "14:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
   },
   {
-    "data": "2025-08-29",
-    "hora": "14:20",
-    "usuario": 5,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
-    "hora": "14:40",
-    "usuario": 5,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
-    "hora": "15:00",
-    "usuario": 5,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
+    "data": "2025-09-05",
     "hora": "15:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-29",
+    "data": "2025-09-05",
     "hora": "15:01",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-08-29",
+    "data": "2025-09-06",
+    "hora": "08:00",
+    "usuario": 1,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "08:00",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "08:15",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "08:30",
+    "usuario": 24,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "08:30",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "08:45",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "09:00",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "09:15",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "09:30",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "09:45",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "10:00",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "10:15",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "10:30",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "10:40",
+    "usuario": 1,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "10:45",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "10:50",
+    "usuario": 1,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "11:00",
+    "usuario": 1,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "11:10",
+    "usuario": 1,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "11:20",
+    "usuario": 1,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "11:30",
+    "usuario": 1,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "11:45",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "12:00",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "67",
+    "tipo_consulta": "RECEITA"
+  },
+  {
+    "data": "2025-09-06",
+    "hora": "12:01",
+    "usuario": 31,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "08:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "08:00",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.004",
+    "tipo_consulta": "ECG - ELETROCARDIOGRAMA DE REPOUSO"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "08:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "09:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "09:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "09:02",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "10:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "10:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "10:02",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "13:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "14:00",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0091",
+    "tipo_consulta": "USG MORFOLOGICO 1º TRIMESTRE"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "14:05",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "14:20",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "14:40",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "15:00",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "15:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "15:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "15:20",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0052",
+    "tipo_consulta": "USG OBSTETRICO"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "15:30",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "15:40",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0040",
+    "tipo_consulta": "USG DE MAMAS"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "16:00",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "16:20",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "16:40",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.001001",
+    "tipo_consulta": "USG MORFOLOGICO 2º TRIMESTRE"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "17:00",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "2.0044",
+    "tipo_consulta": "USG DE RINS E VIAS URINARIAS"
+  },
+  {
+    "data": "2025-09-08",
+    "hora": "18:00",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "08:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0041",
+    "tipo_consulta": "USG DE ABDOME TOTAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "08:15",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0041",
+    "tipo_consulta": "USG DE ABDOME TOTAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "08:30",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0041",
+    "tipo_consulta": "USG DE ABDOME TOTAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "08:40",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "08:45",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0041",
+    "tipo_consulta": "USG DE ABDOME TOTAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "09:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0018",
+    "tipo_consulta": "USG DE ABDOME SUPERIOR"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "09:15",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0041",
+    "tipo_consulta": "USG DE ABDOME TOTAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "09:20",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0041",
+    "tipo_consulta": "USG DE ABDOME TOTAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "09:30",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0041",
+    "tipo_consulta": "USG DE ABDOME TOTAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "09:45",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "09:50",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0047",
+    "tipo_consulta": "USG DE PROSTATA"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "10:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0041",
+    "tipo_consulta": "USG DE ABDOME TOTAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "10:15",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0041",
+    "tipo_consulta": "USG DE ABDOME TOTAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "10:30",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "HIVE",
+    "tipo_consulta": "HIV 1 E 2 - PESQUISA DE ANTÍGENO E ANTICORPOS - TESTE DE TRIAGEM"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "10:45",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0041",
+    "tipo_consulta": "USG DE ABDOME TOTAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "11:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "11:15",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "11:30",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0047",
+    "tipo_consulta": "USG DE PROSTATA"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "11:45",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "HEMO",
+    "tipo_consulta": "HEMOGRAMA COMPLETO"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "13:15",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0047",
+    "tipo_consulta": "USG DE PROSTATA"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "13:30",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0020",
+    "tipo_consulta": "USG DE TIREOIDE"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "13:45",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0044",
+    "tipo_consulta": "USG DE RINS E VIAS URINARIAS"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "14:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0032",
+    "tipo_consulta": "USG DE OMBRO"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "14:10",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "14:15",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0020",
+    "tipo_consulta": "USG DE TIREOIDE"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "14:30",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0041",
+    "tipo_consulta": "USG DE ABDOME TOTAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "14:45",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0053",
+    "tipo_consulta": "USG DE PERNA"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "15:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0047",
+    "tipo_consulta": "USG DE PROSTATA"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "15:15",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0020",
+    "tipo_consulta": "USG DE TIREOIDE"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "15:30",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0040",
+    "tipo_consulta": "USG DE MAMAS"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "15:45",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0032",
+    "tipo_consulta": "USG DE OMBRO"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "16:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "16:15",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0025",
+    "tipo_consulta": "USG DE JOELHO"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "16:30",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0020",
+    "tipo_consulta": "USG DE TIREOIDE"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "16:45",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0044",
+    "tipo_consulta": "USG DE RINS E VIAS URINARIAS"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "17:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0042",
+    "tipo_consulta": "USG DE PAREDE INGUINAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "18:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "18:01",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "18:02",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0020",
+    "tipo_consulta": "USG DE TIREOIDE"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "18:04",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "18:05",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0020",
+    "tipo_consulta": "USG DE TIREOIDE"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "18:06",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "005",
+    "tipo_consulta": "USG DE PROSTATA COM RESIDUO MICCIONAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "18:07",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0042",
+    "tipo_consulta": "USG DE PAREDE INGUINAL"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "18:08",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0044",
+    "tipo_consulta": "USG DE RINS E VIAS URINARIAS"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "18:09",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0047",
+    "tipo_consulta": "USG DE PROSTATA"
+  },
+  {
+    "data": "2025-09-09",
+    "hora": "18:10",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "005",
+    "tipo_consulta": "USG DE PROSTATA COM RESIDUO MICCIONAL"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "08:00",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "08:15",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "08:20",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "2.0082",
+    "tipo_consulta": "USG VENOSO COM DOPPLER"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "08:30",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "08:45",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "09:00",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "26",
+    "tipo_consulta": "APLICAÇÃO DE ESPUMA RETICULARES"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "09:00",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "09:15",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "09:20",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "26",
+    "tipo_consulta": "APLICAÇÃO DE ESPUMA RETICULARES"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "09:30",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "09:40",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "09:45",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "10:00",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "1.0013",
+    "tipo_consulta": "USG DE CAROTIDAS E VERTEBRAIS COM DOPPLER"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "10:00",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "10:15",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "10:30",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "10:45",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "11:00",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "11:15",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "11:20",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "13:00",
+    "usuario": 22,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "13:00",
+    "usuario": 30,
+    "local": 1,
+    "codigo_procedimento": "2.0083",
+    "tipo_consulta": "CONSULTA PSICOLOGO"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "13:00",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "1.003",
+    "tipo_consulta": "APLICAÇÃO DE ESPUMA SAFENA EXTERNA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "13:20",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "26",
+    "tipo_consulta": "APLICAÇÃO DE ESPUMA RETICULARES"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "13:30",
+    "usuario": 22,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "13:40",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "14:40",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "15:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "15:00",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "2.009",
+    "tipo_consulta": "ESCLEROTERAPIA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "16:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "16:00",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "2.009",
+    "tipo_consulta": "ESCLEROTERAPIA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "16:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "16:02",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "16:20",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "16:30",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "26",
+    "tipo_consulta": "APLICAÇÃO DE ESPUMA RETICULARES"
+  },
+  {
+    "data": "2025-09-10",
+    "hora": "17:00",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-11",
+    "hora": "08:00",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.004",
+    "tipo_consulta": "ECG - ELETROCARDIOGRAMA DE REPOUSO"
+  },
+  {
+    "data": "2025-09-11",
+    "hora": "08:10",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-11",
+    "hora": "08:20",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-11",
+    "hora": "08:30",
+    "usuario": 15,
+    "local": 1,
+    "codigo_procedimento": "2.0080",
+    "tipo_consulta": "ECOCARDIOGRAMA TRANSTORACICO COM DOPPLER COLORIDO"
+  },
+  {
+    "data": "2025-09-11",
+    "hora": "08:30",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": "VWFAG",
+    "tipo_consulta": "FATOR DE VON WILLEBRAND (ANTIGENICO)"
+  },
+  {
+    "data": "2025-09-11",
+    "hora": "08:40",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": "T4L",
+    "tipo_consulta": "T4 LIVRE - TIROXINA LIVRE - T4L"
+  },
+  {
+    "data": "2025-09-11",
+    "hora": "08:40",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
+  },
+  {
+    "data": "2025-09-11",
+    "hora": "08:50",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": "TGP",
+    "tipo_consulta": "TGP - ALANINA AMINOTRANSFERASE - TRANSAMINASE PIRÚVICA"
+  },
+  {
+    "data": "2025-09-11",
+    "hora": "09:00",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-11",
+    "hora": "09:10",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": "HB",
+    "tipo_consulta": "HEMOGLOBINA"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "08:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "09:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "09:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "10:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "10:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "10:02",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "13:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "13:00",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "13:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "13:10",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "13:15",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "13:20",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "13:40",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "14:00",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "14:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "14:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "14:20",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "14:25",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "14:40",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "15:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "15:00",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-12",
+    "hora": "15:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-12",
     "hora": "15:20",
     "usuario": 5,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-29",
-    "hora": "15:30",
-    "usuario": 5,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
+    "data": "2025-09-12",
     "hora": "15:40",
     "usuario": 5,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-29",
+    "data": "2025-09-12",
+    "hora": "15:45",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-12",
     "hora": "16:00",
     "usuario": 5,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-29",
-    "hora": "16:15",
-    "usuario": 5,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
+    "data": "2025-09-12",
     "hora": "16:20",
     "usuario": 5,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
-    "data": "2025-08-29",
+    "data": "2025-09-12",
+    "hora": "16:25",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-12",
     "hora": "16:40",
     "usuario": 5,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-29",
+    "data": "2025-09-12",
+    "hora": "16:45",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-12",
     "hora": "17:00",
     "usuario": 5,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
-    "data": "2025-08-29",
-    "hora": "17:58",
-    "usuario": 5,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
-    "hora": "18:01",
-    "usuario": 5,
-    "local": 1
-  },
-  {
-    "data": "2025-08-29",
+    "data": "2025-09-12",
     "hora": "18:02",
     "usuario": 5,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-08-29",
+    "data": "2025-09-12",
     "hora": "18:03",
     "usuario": 5,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-29",
+    "data": "2025-09-12",
     "hora": "18:04",
     "usuario": 5,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-29",
+    "data": "2025-09-12",
     "hora": "18:05",
     "usuario": 5,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-30",
-    "hora": "08:30",
-    "usuario": 10,
-    "local": 1
+    "data": "2025-09-12",
+    "hora": "18:08",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-30",
-    "hora": "08:45",
-    "usuario": 10,
-    "local": 1
+    "data": "2025-09-12",
+    "hora": "18:09",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-30",
-    "hora": "09:00",
-    "usuario": 10,
-    "local": 1
+    "data": "2025-09-12",
+    "hora": "18:10",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-30",
-    "hora": "09:15",
-    "usuario": 10,
-    "local": 1
+    "data": "2025-09-13",
+    "hora": "08:00",
+    "usuario": 19,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-30",
-    "hora": "09:30",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-30",
-    "hora": "09:45",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-30",
+    "data": "2025-09-13",
     "hora": "10:00",
-    "usuario": 10,
-    "local": 1
+    "usuario": 19,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-30",
-    "hora": "10:15",
-    "usuario": 10,
-    "local": 1
+    "data": "2025-09-13",
+    "hora": "10:40",
+    "usuario": 1,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-30",
-    "hora": "10:30",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-08-30",
+    "data": "2025-09-13",
     "hora": "11:00",
     "usuario": 1,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-30",
-    "hora": "11:15",
-    "usuario": 10,
-    "local": 1
+    "data": "2025-09-13",
+    "hora": "11:10",
+    "usuario": 1,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-08-30",
+    "data": "2025-09-13",
+    "hora": "11:20",
+    "usuario": 1,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-13",
     "hora": "11:30",
-    "usuario": 10,
-    "local": 1
+    "usuario": 1,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
-    "data": "2025-08-30",
-    "hora": "11:45",
-    "usuario": 10,
-    "local": 1
-  },
-  {
-    "data": "2025-09-01",
+    "data": "2025-09-15",
     "hora": "08:00",
-    "usuario": 2,
-    "local": 1
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.004",
+    "tipo_consulta": "ECG - ELETROCARDIOGRAMA DE REPOUSO"
   },
   {
-    "data": "2025-09-01",
-    "hora": "08:00",
+    "data": "2025-09-15",
+    "hora": "08:01",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
   },
   {
-    "data": "2025-09-01",
-    "hora": "08:20",
-    "usuario": 2,
-    "local": 1
-  },
-  {
-    "data": "2025-09-01",
-    "hora": "08:40",
-    "usuario": 2,
-    "local": 1
-  },
-  {
-    "data": "2025-09-01",
+    "data": "2025-09-15",
     "hora": "09:00",
-    "usuario": 2,
-    "local": 1
-  },
-  {
-    "data": "2025-09-01",
-    "hora": "09:01",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-09-01",
-    "hora": "09:20",
-    "usuario": 2,
-    "local": 1
-  },
-  {
-    "data": "2025-09-01",
-    "hora": "09:40",
-    "usuario": 2,
-    "local": 1
-  },
-  {
-    "data": "2025-09-01",
+    "data": "2025-09-15",
     "hora": "10:00",
-    "usuario": 2,
-    "local": 1
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-09-01",
+    "data": "2025-09-15",
+    "hora": "10:00",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "10:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-15",
     "hora": "10:02",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-09-01",
+    "data": "2025-09-15",
     "hora": "10:20",
-    "usuario": 2,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-09-01",
+    "data": "2025-09-15",
     "hora": "10:40",
-    "usuario": 2,
-    "local": 1
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-09-01",
-    "hora": "11:00",
-    "usuario": 2,
-    "local": 1
+    "data": "2025-09-15",
+    "hora": "11:20",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-09-01",
-    "hora": "15:00",
+    "data": "2025-09-15",
+    "hora": "13:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-09-01",
-    "hora": "15:01",
+    "data": "2025-09-15",
+    "hora": "13:20",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "14:00",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "14:00",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "14:20",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "14:20",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "1.0063",
+    "tipo_consulta": "USG OBSTETRICO COM DOPPLER"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "14:40",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "14:40",
+    "usuario": 2,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "15:20",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "16:00",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "16:20",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "17:10",
+    "usuario": 7,
+    "local": 1,
+    "codigo_procedimento": "1001",
+    "tipo_consulta": "COLONOSCOPIA - ENDOLIVE"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "17:21",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-15",
+    "hora": "17:22",
+    "usuario": 26,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-16",
+    "hora": "08:40",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
   },
   {
-    "data": "2025-09-03",
+    "data": "2025-09-17",
     "hora": "08:30",
     "usuario": 29,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-09-03",
-    "hora": "09:00",
-    "usuario": 30,
-    "local": 1
+    "data": "2025-09-17",
+    "hora": "08:45",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-09-03",
+    "data": "2025-09-17",
+    "hora": "11:00",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "11:15",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "14:00",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "14:01",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "14:15",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "14:30",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "14:35",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.0029",
+    "tipo_consulta": "LAVAGEM OUVIDO"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "14:45",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-17",
     "hora": "15:00",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "15:10",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "15:15",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "15:30",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "15:45",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "16:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
   },
   {
-    "data": "2025-09-04",
-    "hora": "08:00",
-    "usuario": 21,
-    "local": 1
+    "data": "2025-09-17",
+    "hora": "16:00",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-09-04",
+    "data": "2025-09-17",
+    "hora": "16:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "16:02",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "16:15",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "16:20",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "16:30",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "16:45",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "17:00",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "17:15",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "17:30",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "18:00",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-17",
+    "hora": "18:01",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-18",
     "hora": "08:10",
     "usuario": 21,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "PSALT",
+    "tipo_consulta": "PSA TOTAL E LIVRE"
   },
   {
-    "data": "2025-09-05",
-    "hora": "08:00",
+    "data": "2025-09-18",
+    "hora": "08:15",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": "PSAL",
+    "tipo_consulta": "PSA LIVRE"
+  },
+  {
+    "data": "2025-09-18",
+    "hora": "08:40",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
   },
   {
-    "data": "2025-09-05",
-    "hora": "09:00",
-    "usuario": 4,
-    "local": 1
+    "data": "2025-09-18",
+    "hora": "11:00",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-09-05",
-    "hora": "09:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-09-05",
-    "hora": "10:45",
-    "usuario": 4,
-    "local": 1
-  },
-  {
-    "data": "2025-09-05",
+    "data": "2025-09-18",
     "hora": "13:00",
-    "usuario": 8,
-    "local": 1
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-09-05",
-    "hora": "13:01",
-    "usuario": 8,
-    "local": 1
+    "data": "2025-09-18",
+    "hora": "13:30",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-09-05",
-    "hora": "15:00",
-    "usuario": 8,
-    "local": 1
+    "data": "2025-09-18",
+    "hora": "13:45",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
-    "data": "2025-09-05",
-    "hora": "15:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-09-08",
-    "hora": "08:00",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-09-08",
-    "hora": "09:01",
-    "usuario": 8,
-    "local": 1
-  },
-  {
-    "data": "2025-09-08",
+    "data": "2025-09-18",
     "hora": "14:00",
-    "usuario": 7,
-    "local": 1
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
   },
   {
-    "data": "2025-09-08",
+    "data": "2025-09-18",
+    "hora": "14:15",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-18",
+    "hora": "14:30",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-18",
+    "hora": "14:45",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-18",
     "hora": "15:00",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-18",
+    "hora": "15:15",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-18",
+    "hora": "15:30",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-18",
+    "hora": "16:00",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-18",
+    "hora": "16:30",
+    "usuario": 18,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-19",
+    "hora": "08:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
   },
   {
-    "data": "2025-09-08",
-    "hora": "15:01",
+    "data": "2025-09-19",
+    "hora": "08:00",
+    "usuario": 4,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-19",
+    "hora": "10:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-09-10",
-    "hora": "09:45",
-    "usuario": 29,
-    "local": 1
-  },
-  {
-    "data": "2025-09-10",
-    "hora": "15:00",
+    "data": "2025-09-19",
+    "hora": "10:01",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-09-12",
-    "hora": "09:01",
+    "data": "2025-09-19",
+    "hora": "10:02",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-09-12",
+    "data": "2025-09-19",
+    "hora": "14:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-19",
+    "hora": "14:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-22",
+    "hora": "08:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-22",
+    "hora": "09:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-22",
+    "hora": "10:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-22",
+    "hora": "10:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-22",
+    "hora": "10:02",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-22",
     "hora": "13:00",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
   },
   {
-    "data": "2025-09-12",
-    "hora": "13:01",
+    "data": "2025-09-23",
+    "hora": "08:40",
     "usuario": 8,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "90",
+    "tipo_consulta": "CONSULTA FISIOTERAPIA"
   },
   {
-    "data": "2025-09-12",
-    "hora": "15:00",
-    "usuario": 8,
-    "local": 1
+    "data": "2025-09-23",
+    "hora": "13:00",
+    "usuario": 12,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
-    "data": "2025-09-12",
-    "hora": "15:01",
-    "usuario": 8,
-    "local": 1
+    "data": "2025-09-23",
+    "hora": "13:30",
+    "usuario": 12,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-23",
+    "hora": "14:00",
+    "usuario": 12,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-23",
+    "hora": "16:00",
+    "usuario": 12,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-24",
+    "hora": "08:30",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-24",
+    "hora": "10:45",
+    "usuario": 29,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
   },
   {
     "data": "2025-09-24",
     "hora": "11:15",
     "usuario": 29,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "87",
+    "tipo_consulta": "ELETROCAUTERIO - CAUTERIZAÇÃO QUIMICA GINECOLOGICA"
+  },
+  {
+    "data": "2025-09-24",
+    "hora": "11:40",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "26",
+    "tipo_consulta": "APLICAÇÃO DE ESPUMA RETICULARES"
+  },
+  {
+    "data": "2025-09-24",
+    "hora": "13:00",
+    "usuario": 22,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-24",
+    "hora": "15:00",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-24",
+    "hora": "15:40",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "26",
+    "tipo_consulta": "APLICAÇÃO DE ESPUMA RETICULARES"
+  },
+  {
+    "data": "2025-09-24",
+    "hora": "16:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-24",
+    "hora": "16:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-24",
+    "hora": "16:02",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-24",
+    "hora": "17:00",
+    "usuario": 23,
+    "local": 1,
+    "codigo_procedimento": "26",
+    "tipo_consulta": "APLICAÇÃO DE ESPUMA RETICULARES"
+  },
+  {
+    "data": "2025-09-25",
+    "hora": "08:10",
+    "usuario": 21,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-25",
+    "hora": "13:30",
+    "usuario": 6,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-25",
+    "hora": "13:40",
+    "usuario": 6,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-25",
+    "hora": "14:00",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.0033",
+    "tipo_consulta": "NASOFIBROLARINGOSCOPIA"
+  },
+  {
+    "data": "2025-09-25",
+    "hora": "14:15",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-25",
+    "hora": "14:30",
+    "usuario": 11,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-26",
+    "hora": "08:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-26",
+    "hora": "10:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-26",
+    "hora": "10:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-26",
+    "hora": "10:02",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-26",
+    "hora": "13:00",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-26",
+    "hora": "13:20",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-26",
+    "hora": "13:40",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-26",
+    "hora": "14:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-26",
+    "hora": "15:20",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-26",
+    "hora": "16:20",
+    "usuario": 5,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "08:00",
+    "usuario": 19,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "08:30",
+    "usuario": 9,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "08:30",
+    "usuario": 10,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "08:45",
+    "usuario": 10,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "08:50",
+    "usuario": 9,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "09:00",
+    "usuario": 10,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "09:10",
+    "usuario": 9,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "09:15",
+    "usuario": 10,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "09:30",
+    "usuario": 10,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "09:30",
+    "usuario": 9,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "09:45",
+    "usuario": 10,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "09:50",
+    "usuario": 9,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "10:00",
+    "usuario": 10,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "10:10",
+    "usuario": 9,
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "10:15",
+    "usuario": 10,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "10:30",
+    "usuario": 9,
+    "local": 1,
+    "codigo_procedimento": "0",
+    "tipo_consulta": "RETORNO"
+  },
+  {
+    "data": "2025-09-27",
+    "hora": "10:50",
+    "usuario": 9,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-29",
+    "hora": "08:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-09-29",
+    "hora": "10:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-29",
+    "hora": "10:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-29",
+    "hora": "10:02",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "4",
+    "tipo_consulta": "PILATES 180"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "11:45",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "005",
+    "tipo_consulta": "USG DE PROSTATA COM RESIDUO MICCIONAL"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "13:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "13:15",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "13:30",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "14:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0041",
+    "tipo_consulta": "USG DE TESTICULOS"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "14:15",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0041",
+    "tipo_consulta": "USG DE TESTICULOS"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "14:30",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "15:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0042",
+    "tipo_consulta": "USG DE PAREDE INGUINAL"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "15:15",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0047",
+    "tipo_consulta": "USG DE PROSTATA"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "15:30",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0025",
+    "tipo_consulta": "USG DE JOELHO"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "15:45",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0020",
+    "tipo_consulta": "USG DE TIREOIDE"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "16:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0040",
+    "tipo_consulta": "USG DE MAMAS"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "16:15",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "2.0035",
+    "tipo_consulta": "USG TRANSVAGINAL"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "16:30",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0042",
+    "tipo_consulta": "USG DE PAREDE INGUINAL"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "16:45",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0021",
+    "tipo_consulta": "USG DE PARTES MOLE"
+  },
+  {
+    "data": "2025-09-30",
+    "hora": "17:00",
+    "usuario": 17,
+    "local": 1,
+    "codigo_procedimento": "1.0047",
+    "tipo_consulta": "USG DE PROSTATA"
+  },
+  {
+    "data": "2025-10-01",
+    "hora": "16:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-10-01",
+    "hora": "16:01",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-10-01",
+    "hora": "16:02",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
+  },
+  {
+    "data": "2025-10-03",
+    "hora": "14:00",
+    "usuario": 8,
+    "local": 1,
+    "codigo_procedimento": "5",
+    "tipo_consulta": "PILATES 100"
   },
   {
     "data": "2025-10-29",
     "hora": "11:15",
     "usuario": 29,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "2.00100",
+    "tipo_consulta": "CONSULTA"
+  },
+  {
+    "data": "2025-11-01",
+    "hora": "08:30",
+    "usuario": 10,
+    "local": 1,
+    "codigo_procedimento": null,
+    "tipo_consulta": "Não informado"
   },
   {
     "data": "2025-11-12",
     "hora": "11:45",
     "usuario": 29,
-    "local": 1
+    "local": 1,
+    "codigo_procedimento": "87",
+    "tipo_consulta": "ELETROCAUTERIO - CAUTERIZAÇÃO QUIMICA GINECOLOGICA"
   }
 ]
